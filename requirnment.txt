@@ -1,0 +1,8 @@
+172.70.110.246 - - [28/Mar/2025 16:33:58] "GET / HTTP/1.1" 200 -
+172.70.110.246 - - [28/Mar/2025 16:33:58] "GET /favicon.ico HTTP/1.1" 404 -
+172.70.110.246 - - [28/Mar/2025 16:34:53] "POST /greet HTTP/1.1" 200 -
+
+
+Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.70.110.246:5000
